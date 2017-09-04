@@ -1,6 +1,6 @@
 # learnvuejs
 
-> Vuejs project
+> simple messy app using vuejs, vue-resource, and vue router :)
 
 ## Build Setup
 
